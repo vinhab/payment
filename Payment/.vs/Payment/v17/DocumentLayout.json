@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvinh\\source\\repos\\Payment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D422F76-077B-4AEA-A63E-3A0D5A7484F7}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|c:\\users\\pvinh\\source\\repos\\payment\\src\\shared\\payment.ultils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D422F76-077B-4AEA-A63E-3A0D5A7484F7}|src\\shared\\Payment.Ultils\\Payment.Ultils.csproj|solutionrelative:src\\shared\\payment.ultils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24131C32-6A6F-4FC1-BC3B-8151E38DE70C}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|c:\\users\\pvinh\\source\\repos\\payment\\src\\infras\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24131C32-6A6F-4FC1-BC3B-8151E38DE70C}|src\\infras\\Payment.Persistence\\Payment.Persistence.csproj|solutionrelative:src\\infras\\payment.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299361B-598F-4351-85D5-88DFFD2CCE2D}|src\\core\\Payment.Aplication\\Payment.Aplication.csproj|c:\\users\\pvinh\\source\\repos\\payment\\src\\core\\payment.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299361B-598F-4351-85D5-88DFFD2CCE2D}|src\\core\\Payment.Aplication\\Payment.Aplication.csproj|solutionrelative:src\\core\\payment.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FB99DD-F6AD-484A-8E89-17D4E721173D}|src\\core\\Payment.Domain\\Payment.Domain.csproj|c:\\users\\pvinh\\source\\repos\\payment\\src\\core\\payment.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FB99DD-F6AD-484A-8E89-17D4E721173D}|src\\core\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\core\\payment.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\shared\\Payment.Ultils\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\shared\\Payment.Ultils\\Class1.cs",
+              "ToolTip": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\shared\\Payment.Ultils\\Class1.cs",
+              "RelativeToolTip": "src\\shared\\Payment.Ultils\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:15:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\infras\\Payment.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\infras\\Payment.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\infras\\Payment.Persistence\\Class1.cs",
+              "RelativeToolTip": "src\\infras\\Payment.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:12:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\core\\Payment.Aplication\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Aplication\\Class1.cs",
+              "ToolTip": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\core\\Payment.Aplication\\Class1.cs",
+              "RelativeToolTip": "src\\core\\Payment.Aplication\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:11:25.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\core\\Payment.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\core\\Payment.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\pvinh\\source\\repos\\Payment\\src\\core\\Payment.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\core\\Payment.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:10:18.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
